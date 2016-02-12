@@ -1,0 +1,26 @@
+{
+  "name": "g16-mean-tea-app-reactjs",
+  "version": "1.0.0",
+  "description": "This is for the mean tea app using reactJS instead of AngularJS.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalahRaadSalih/g16-mean-tea-app-reactjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HalahRaadSalih/g16-mean-tea-app-reactjs/issues"
+  },
+  "homepage": "https://github.com/HalahRaadSalih/g16-mean-tea-app-reactjs#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "method-override": "^2.3.5"
+  }
+}
